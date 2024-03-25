@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot (Kotlin)/*
+!/Simple Chat Bot (Kotlin)/task/
+/Simple Chat Bot (Kotlin)/task/*
+!/Simple Chat Bot (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Invoking functions/Generating a sequence of odd numbers/out/
+/Topics/Invoking functions/Generating a sequence of odd numbers/out/production/classes/
+/Topics/Standard input with Java Scanner/Four numbers/out/
+/Topics/Standard input with Java Scanner/Four numbers/out/production/classes/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/production/classes/
